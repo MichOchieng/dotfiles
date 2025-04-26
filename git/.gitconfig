@@ -1,0 +1,4 @@
+# This is Git's per-user configuration file.
+[user]
+	email = email@gmail.com
+	name = Mich Ochieng
